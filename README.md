@@ -1,1 +1,1 @@
-# pythonproj
+Excited to be coding in python under the power learn project.
